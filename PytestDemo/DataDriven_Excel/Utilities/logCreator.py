@@ -8,4 +8,4 @@ def log_generator():
         format='%(asctime)s - %(levelname)s - %(message)s',
         datefmt='%Y-%m-%d %H:%M:%S %p', force=True
     )
-    return logging.getLogger()w
+    return logging.getLogger()
