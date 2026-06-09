@@ -2,7 +2,7 @@ import pytest
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import PytestDemo.DataDriven_Config.read_config as read_config
+import read_config
 
 @pytest.fixture()
 def test_setup_and_teardown():
