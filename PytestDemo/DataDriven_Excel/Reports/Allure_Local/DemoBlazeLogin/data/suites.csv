@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","10405","test_validlogin1[Admin-admin]","Test","2026-06-09","passed","2026-06-09","TestLogin1","Test_DemoBlaze_Login","",""
+"","10265","test_validlogin1[RohiniM-Rohini_16]","Test","2026-06-09","passed","2026-06-09","TestLogin1","Test_DemoBlaze_Login","",""
