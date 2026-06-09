@@ -4,7 +4,7 @@ def test_sample_one():
 def test_sample1():
     a=10
     b=10
-    assert a==b
+    assert a!=b
 def test_sample2():
     a=5
     b=10

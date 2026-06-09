@@ -6,6 +6,6 @@ from selenium.webdriver.common.by import By
 def test_google_search(search_term):
     driver = webdriver.Chrome()
     driver.get("https://www.google.co.in/")
-    driver.find_element(By.Xpath, "//textarea[@class='gLFyf']")
-    driver.send_keys(search_term)
+    search_box = driver.find_element(By.XPATH, "//textarea[@class='gLFyf']")
+    search_box.send_keys(search_term)
     
