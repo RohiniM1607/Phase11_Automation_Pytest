@@ -1,0 +1,39 @@
+2026-06-10 10:12:40 AM - INFO - Register User Account
+2026-06-10 10:13:18 AM - INFO - Accepting terms and conditions
+2026-06-10 10:13:31 AM - INFO - Clicking on continue button
+2026-06-10 10:13:42 AM - INFO - User account registeration failed
+2026-06-10 10:15:16 AM - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2026-06-10 10:15:57 AM - INFO - Register User Account
+2026-06-10 10:16:03 AM - INFO - Accepting terms and conditions
+2026-06-10 10:16:05 AM - INFO - Clicking on continue button
+2026-06-10 10:16:16 AM - INFO - User account registeration failed
+2026-06-10 10:18:00 AM - INFO - Register User Account
+2026-06-10 10:18:05 AM - INFO - Entering firstname
+2026-06-10 10:18:06 AM - INFO - Accepting terms and conditions
+2026-06-10 10:18:08 AM - INFO - Clicking on continue button
+2026-06-10 10:18:19 AM - INFO - User account registeration failed
+2026-06-10 10:18:36 AM - INFO - Register User Account
+2026-06-10 10:18:38 AM - INFO - Entering firstname
+2026-06-10 10:18:40 AM - INFO - Accepting terms and conditions
+2026-06-10 10:18:42 AM - INFO - Clicking on continue button
+2026-06-10 10:18:52 AM - INFO - User account registeration failed
+2026-06-10 10:19:53 AM - INFO - Register User Account
+2026-06-10 10:19:58 AM - INFO - Entering firstname
+2026-06-10 10:19:58 AM - INFO - Entering last
+2026-06-10 10:19:58 AM - INFO - Entering email:
+2026-06-10 10:19:58 AM - INFO - Entering telephone
+2026-06-10 10:19:58 AM - INFO - Entering password
+2026-06-10 10:19:58 AM - INFO - Entering confirm password
+2026-06-10 10:19:59 AM - INFO - Accepting terms and conditions
+2026-06-10 10:20:01 AM - INFO - Clicking on continue button
+2026-06-10 10:20:11 AM - INFO - User account registeration failed
+2026-06-10 10:20:35 AM - INFO - Register User Account
+2026-06-10 10:20:37 AM - INFO - Entering firstname
+2026-06-10 10:20:37 AM - INFO - Entering last
+2026-06-10 10:20:37 AM - INFO - Entering email:
+2026-06-10 10:20:37 AM - INFO - Entering telephone
+2026-06-10 10:20:38 AM - INFO - Entering password
+2026-06-10 10:20:38 AM - INFO - Entering confirm password
+2026-06-10 10:20:39 AM - INFO - Accepting terms and conditions
+2026-06-10 10:20:40 AM - INFO - Clicking on continue button
+2026-06-10 10:20:51 AM - INFO - User account registeration failed
